@@ -6,6 +6,7 @@ public class Program1
     static void Main(string[] args)
     {
         Fraction f1 = new Fraction(6, 3);
+        Fraction f2 = new Fraction(6, 3);
 
 
         Console.WriteLine("enter nom");
