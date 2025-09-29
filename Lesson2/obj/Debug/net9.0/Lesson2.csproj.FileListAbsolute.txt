@@ -1,0 +1,15 @@
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.AssemblyInfoInputs.cache
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.AssemblyInfo.cs
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.csproj.CoreCompileInputs.cache
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.sourcelink.json
+/Users/ayelet/source/ConsoleApp1/Lesson2/bin/Debug/net9.0/Lesson2
+/Users/ayelet/source/ConsoleApp1/Lesson2/bin/Debug/net9.0/Lesson2.deps.json
+/Users/ayelet/source/ConsoleApp1/Lesson2/bin/Debug/net9.0/Lesson2.runtimeconfig.json
+/Users/ayelet/source/ConsoleApp1/Lesson2/bin/Debug/net9.0/Lesson2.dll
+/Users/ayelet/source/ConsoleApp1/Lesson2/bin/Debug/net9.0/Lesson2.pdb
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.dll
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/refint/Lesson2.dll
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.pdb
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/Lesson2.genruntimeconfig.cache
+/Users/ayelet/source/ConsoleApp1/Lesson2/obj/Debug/net9.0/ref/Lesson2.dll
